@@ -11,7 +11,7 @@ pandas
 geopandas
 numpy
 
-pip install git+https://github.com/your_username/your_repository.git
+git+https://github.com/jancgreyling/mypackages.git
 
 matplotlib
 seaborn
