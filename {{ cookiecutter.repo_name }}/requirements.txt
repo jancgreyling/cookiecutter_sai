@@ -20,10 +20,6 @@ plotly
 plotnine
 shapely
 
-pykrige
-sklearn
-scikit-learn
-
 geopandas
 
 {% if cookiecutter.python_interpreter != 'python3' %}
