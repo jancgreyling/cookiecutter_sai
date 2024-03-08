@@ -23,6 +23,7 @@ scikit-learn
 geopandas
 rasterio
 metpy
+mapclassify
 
 git+https://github.com/jancgreyling/mypackages.git
 
